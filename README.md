@@ -293,3 +293,5 @@ sql_results.txt
 -   SQL query results saved
 -   Requirements file created
                                                                                                                                                                                                                                                                                                                            
+## Final Submission Notes
+This repository contains the complete three-module Zepto AI/ML capstone project.
