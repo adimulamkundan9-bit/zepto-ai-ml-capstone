@@ -1,7 +1,9 @@
 .venv/
+.venv_new/
 __pycache__/
 *.pyc
 *.pyo
 *.pyd
 .vscode/
 *.db
+support_assistant/chroma_db/
